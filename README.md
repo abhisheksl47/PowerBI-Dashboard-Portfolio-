@@ -28,6 +28,6 @@ This Power BI dashboard provides a comprehensive view of cookie sales performanc
 I'm **Abhishek S L**, a Customer Support and Financial Services professional transitioning into data and fintech roles. This dashboard is part of my Power BI learning portfolio, showcasing my ability to turn raw data into actionable insights.
 
 ## 📬 Connect With Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-s-ladwa/))
+- 💼 [LinkedIn] https://www.linkedin.com/in/abhishek-s-ladwa/
 - 📧 abhishekladwa47@gmail.com         
 - 📁 More dashboards coming soon!
